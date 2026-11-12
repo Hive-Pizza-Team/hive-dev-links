@@ -1,5 +1,7 @@
 # Useful links for Hive devs
 
+[![Powered By Hive](https://img.shields.io/static/v1?label=Hive&message=Powered%20By%20Hive&color=E31337&labelColor=212529&logo=hive_blockchain&logoColor=white&style=flat)](https://hive.io/)
+
 * https://developers.hive.io/ (Main Hive developers API documentation)
 * https://hivexplorer.com/api-docs (Hive API explorer)
 * https://openhive-network.github.io/dhive/ (dHive JS library docs)
